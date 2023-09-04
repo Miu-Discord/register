@@ -1,0 +1,12 @@
+{
+    "description": "Miu's website",
+    "repo": "https://github.com/Miu-Discord/Miu-Discord.github.io",
+    "owner": {
+        "username": "Miu-Discord",
+        "email": "lrmn.dev@gmail.com",
+        "discord": "romanromannya#0"
+    },
+    "record": {
+        "CNAME": "Miu-Discord.github.io"
+    }
+}
